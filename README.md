@@ -2,7 +2,7 @@
 
 ### Oie  👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thalitatls_/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thalitatls/)
 
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=telessthalita&show_icons=true&theme=midnight-purple)
