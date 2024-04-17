@@ -9,6 +9,6 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-6e0dab?style=for-the-badge&logo=css3&logoColor=black" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-6e0dab?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-6e0dab?style=for-the-badge&logo=python&logoColor=black" />
-  <img align="center" alt="vue" src="https://img.shields.io/badge/Vue.js-6e0dab?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img align="center" alt="vue" src="https://img.shields.io/badge/Vue.js-6e0dab?style=for-the-badge&logo=vue.js&logoColor=black" />
   <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-6e0dab?style=for-the-badge&logo=node.js&logoColor=black" />
 </div><br/>
