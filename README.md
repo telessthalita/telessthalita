@@ -9,6 +9,7 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer 
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-6e0dab?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/thalitatls/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-6e0dab?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/telessthalita/)
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=telessthalita&show_icons=true&theme=midnight-purple)
 
@@ -19,5 +20,6 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer 
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-6e0dab?style=for-the-badge&logo=python&logoColor=black" />
   <img align="center" alt="vue" src="https://img.shields.io/badge/Vue.js-6e0dab?style=for-the-badge&logo=vue.js&logoColor=black" />
   <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-6e0dab?style=for-the-badge&logo=node.js&logoColor=black" />
+  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-6e0dab?style=for-the-badge&logo=Git&logoColor=black" />
 </div><br/>
 
