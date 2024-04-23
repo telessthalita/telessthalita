@@ -1,4 +1,12 @@
 ### Oie  👋
+# Thalita Teles - Desenvolvedora de Software
+
+## Sobre mim
+
+Olá! Me chamo Thalita e sou apaixonada por tecnologia, acredito que sua existência veio para melhorar a vida humana na terra. Tenho um forte interesse em áreas como desenvolvimento web, machine learning, ciência de dados. E também faço parte de uma empresa que organiza campeonatos de jogos eletrônicos.
+
+Estou sempre em busca de novos desafios e oportunidades para aprender e crescer como profissional. Minha jornada no desenvolvimento de software envolve experiência prática em várias tecnologias, desde linguagens de programação até frameworks e ferramentas modernas.
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-6e0dab?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/thalitatls/)
 
