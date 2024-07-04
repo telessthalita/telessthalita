@@ -3,7 +3,7 @@
 
 ## Sobre mim
 
-Oie, sou apaixonada por tecnologia, acredito que sua existência veio para melhorar a vida humana. Tenho um forte interesse em áreas como desenvolvimento web, machine learning, ciência de dados.
+Oie, sou apaixonada por tecnologia, acredito que sua existência veio para melhorar a vida humana. Tenho um forte interesse em áreas como, machine learning, ciência de dados e desenvolvimento web
 
 Estou sempre em busca de novos desafios e oportunidades para aprender e crescer como profissional. Minha jornada no desenvolvimento de software envolve experiência prática em várias tecnologias, desde linguagens de programação até frameworks e ferramentas modernas.
 
