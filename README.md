@@ -1,11 +1,11 @@
-### Oie  👋
-# Thalita Teles - Desenvolvedora de Software
+
+# Thalita Teles - Desenvolvedora de Software 💻  
 
 ## Sobre mim
 
-Oie, sou apaixonada por tecnologia, acredito que sua existência veio para melhorar a vida humana. Tenho um forte interesse em áreas como, machine learning, ciência de dados e desenvolvimento web
+Desenvolvedora full stack e exploradora de dados, apaixonada por tecnologia que gera impacto real. Meu foco é em desenvolvimento web, engenharia de dados e, recentemente, na criação de chatbots inteligentes capazes de transformar a experiência do usuário. Estou sempre investigando como a inteligência artificial pode ser integrada a aplicações para oferecer soluções automatizadas e interativas.
 
-Estou sempre em busca de novos desafios e oportunidades para aprender e crescer como profissional. Minha jornada no desenvolvimento de software envolve experiência prática em várias tecnologias, desde linguagens de programação até frameworks e ferramentas modernas.
+Você encontrará por aqui projetos que vão desde visualizações de dados até experimentos com machine learning e chatbots. Em cada um deles, exploro maneiras de aprimorar o desempenho, otimizar processos e, principalmente, criar experiências que surpreendam.
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-6e0dab?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/thalitatls/)
