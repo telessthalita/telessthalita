@@ -20,11 +20,6 @@ Aqui no meu GitHub, você verá uma coleção de projetos que vão desde **visua
 - **Facilidade de uso e excelente documentação**: A experiência do usuário sempre está no topo das minhas prioridades, e isso inclui um código limpo e bem documentado, para que qualquer pessoa consiga se orientar com facilidade.
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-6e0dab?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/thalitatls/)
-[![Linkedin](https://img.shields.io/badge/Linkedin-6e0dab?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/telessthalita/)
-
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=telessthalita&show_icons=true&theme=midnight-purple)
-
 <div style="display: inline_block;">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-6e0dab?style=for-the-badge&logo=html5&logoColor=black" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-6e0dab?style=for-the-badge&logo=css3&logoColor=black" />
@@ -34,4 +29,8 @@ Aqui no meu GitHub, você verá uma coleção de projetos que vão desde **visua
   <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-6e0dab?style=for-the-badge&logo=node.js&logoColor=black" />
   <img align="center" alt="Git" src="https://img.shields.io/badge/Git-6e0dab?style=for-the-badge&logo=Git&logoColor=black" />
 </div><br/>
+
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=telessthalita&show_icons=true&theme=midnight-purple)
+
+
 
