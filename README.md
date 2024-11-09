@@ -19,12 +19,6 @@ Aqui no meu GitHub, você verá uma coleção de projetos que vão desde **visua
 - **Criar experiências surpreendentes e inovadoras**: Experiências intuitivas e interativas são o que mais busco, porque acredito que um bom design facilita a vida.
 - **Facilidade de uso e excelente documentação**: A experiência do usuário sempre está no topo das minhas prioridades, e isso inclui um código limpo e bem documentado, para que qualquer pessoa consiga se orientar com facilidade.
 
----
-
-### Um pouco sobre minha trajetória...
-
-Com 25 anos, estou em plena jornada para encontrar o meu lugar na área de tecnologia. Até agora, me vejo como uma espécie de exploradora no meio de dados e desenvolvimento, uma curiosa incansável que quer entender e inovar sempre mais. Enquanto me desenvolvo, o que tenho de certeza é que a tecnologia é minha grande parceira e está sempre ali para novas aventuras.
-
 
 [![Instagram](https://img.shields.io/badge/Instagram-6e0dab?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/thalitatls/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-6e0dab?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/telessthalita/)
