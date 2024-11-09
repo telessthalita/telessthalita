@@ -1,11 +1,29 @@
 
-# Thalita Teles - Desenvolvedora de Software 💻  
+# Thalita Teles  💻  
 
-## Sobre mim
+### Olá!, desenvolvedora full stack, exploradora de dados e, dizem por aí, “Deusa da Tecnologia” 👩‍💻✨.
 
-Desenvolvedora full stack e exploradora de dados, apaixonada por tecnologia que gera impacto real. Meu foco é em desenvolvimento web, engenharia de dados e, recentemente, na criação de chatbots inteligentes capazes de transformar a experiência do usuário. Estou sempre investigando como a inteligência artificial pode ser integrada a aplicações para oferecer soluções automatizadas e interativas.
+Sou apaixonada por tecnologia que transforma e simplifica. Trabalho principalmente com **desenvolvimento web**, **engenharia de dados** e estou mergulhando cada vez mais fundo no universo dos **chatbots inteligentes**. Nos meus projetos, o que mais me entusiasma é criar soluções que realmente façam diferença para as pessoas, seja facilitando o dia a dia ou surpreendendo com funcionalidades inovadoras.
 
-Você encontrará por aqui projetos que vão desde visualizações de dados até experimentos com machine learning e chatbots. Em cada um deles, exploro maneiras de aprimorar o desempenho, otimizar processos e, principalmente, criar experiências que surpreendam.
+> **"Problemas sempre vão existir. O segredo é curtir a jornada de resolvê-los."**
+
+Esse é um pouco do meu mantra no dia a dia. Gosto de **prototipar rápido**, experimentar e ajustar conforme aprendo com cada iteração. Acredito que tecnologia bem aplicada tem o poder de fazer do mundo um lugar melhor, e inovação está no centro de tudo que faço.
+
+---
+
+### O que você vai encontrar por aqui?
+
+Aqui no meu GitHub, você verá uma coleção de projetos que vão desde **visualizações de dados** até **experimentos com machine learning e engenharia de prompt**. Estou sempre explorando formas de:
+
+- **Aprimorar o desempenho**: Otimizar processos é o que me faz sentir que estou deixando tudo um pouco melhor do que encontrei.
+- **Criar experiências surpreendentes e inovadoras**: Experiências intuitivas e interativas são o que mais busco, porque acredito que um bom design facilita a vida.
+- **Facilidade de uso e excelente documentação**: A experiência do usuário sempre está no topo das minhas prioridades, e isso inclui um código limpo e bem documentado, para que qualquer pessoa consiga se orientar com facilidade.
+
+---
+
+### Um pouco sobre minha trajetória...
+
+Com 25 anos, estou em plena jornada para encontrar o meu lugar na área de tecnologia. Até agora, me vejo como uma espécie de exploradora no meio de dados e desenvolvimento, uma curiosa incansável que quer entender e inovar sempre mais. Enquanto me desenvolvo, o que tenho de certeza é que a tecnologia é minha grande parceira e está sempre ali para novas aventuras.
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-6e0dab?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/thalitatls/)
