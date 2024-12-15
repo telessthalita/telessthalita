@@ -1,23 +1,24 @@
 
 # Thalita Teles  💻  
 
-### Olá!, desenvolvedora full stack, exploradora de dados e, dizem por aí, “Deusa da Tecnologia” 👩‍💻✨.
+### Hello! Full-Stack Developer, Data Explorer, and some say, "Goddess of Technology" 👩‍💻✨  
 
-Sou apaixonada por tecnologia que transforma e simplifica. Trabalho principalmente com **desenvolvimento web**, **engenharia de dados** e estou mergulhando cada vez mais fundo no universo dos **chatbots inteligentes**. Nos meus projetos, o que mais me entusiasma é criar soluções que realmente façam diferença para as pessoas, seja facilitando o dia a dia ou surpreendendo com funcionalidades inovadoras.
+I'm passionate about technology that transforms and simplifies. My focus is primarily on **web development**, **data engineering**, and diving ever deeper into the world of **intelligent chatbots**. What excites me most in my projects is crafting solutions that truly make a difference—whether by streamlining daily tasks or surprising users with innovative features.  
 
-> **"Problemas sempre vão existir. O segredo é curtir a jornada de resolvê-los."**
+> **"Problems will always exist. The secret is to enjoy the journey of solving them."**  
 
-Esse é um pouco do meu mantra no dia a dia. Gosto de **prototipar rápido**, experimentar e ajustar conforme aprendo com cada iteração. Acredito que tecnologia bem aplicada tem o poder de fazer do mundo um lugar melhor, e inovação está no centro de tudo que faço.
+This is a bit of my mantra for day-to-day work. I love **rapid prototyping**, experimenting, and refining as I learn from each iteration. I believe that well-applied technology has the power to make the world a better place, and innovation is at the heart of everything I do.  
 
----
+---  
 
-### O que você vai encontrar por aqui?
+### What will you find here?  
 
-Aqui no meu GitHub, você verá uma coleção de projetos que vão desde **visualizações de dados** até **experimentos com machine learning e engenharia de prompt**. Estou sempre explorando formas de:
+On my GitHub, you'll find a collection of projects ranging from **data visualizations** to **experiments with machine learning and prompt engineering**. I'm always exploring ways to:  
 
-- **Aprimorar o desempenho**: Otimizar processos é o que me faz sentir que estou deixando tudo um pouco melhor do que encontrei.
-- **Criar experiências surpreendentes e inovadoras**: Experiências intuitivas e interativas são o que mais busco, porque acredito que um bom design facilita a vida.
-- **Facilidade de uso e excelente documentação**: A experiência do usuário sempre está no topo das minhas prioridades, e isso inclui um código limpo e bem documentado, para que qualquer pessoa consiga se orientar com facilidade.
+- **Enhance performance**: Optimizing processes is my way of leaving things better than I found them.  
+- **Create surprising and innovative experiences**: I strive for intuitive and interactive solutions because I believe good design makes life easier.  
+- **Ensure usability and excellent documentation**: User experience is always my top priority, which includes clean, well-documented code so that anyone can navigate and understand it with ease.  
+
 
 
 <div style="display: inline_block;">
