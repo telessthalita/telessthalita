@@ -24,8 +24,9 @@ SUBTITLE = "desenvolvedora fullstack + engenheira de IA"
 NOW = "agora: construindo um app de finanças pra casal e estudando engenharia de IA"
 BUBBLE = "oi! eu sou a Friday"
 
-STACK_TOP = ["JavaScript", "Python", "React", "Vue", "Node.js", "FastAPI", "Supabase", "Postgres"]
-STACK_BOTTOM = ["LLMs", "Ollama", "n8n", "TypeScript", "C#", "SQL", "APIs REST", "Automação", "Git"]
+STACK_TOP = ["JavaScript", "TypeScript", "Python", "React", "Next.js", "Vue", "Node.js", "FastAPI", "WordPress"]
+STACK_MID = ["Supabase", "Postgres", "MongoDB", "MySQL", "PHP", "C#", ".NET", "Flask", "Express", "Hono", "Tailwind", "Docker"]
+STACK_BOTTOM = ["OpenAI", "Gemini", "Groq", "Ollama", "LLMs", "n8n", "Azure AI", "Three.js", "Selenium", "GitHub Actions"]
 
 
 def header() -> str:
@@ -126,26 +127,32 @@ def row(words, y, fs, cls, hollow):
 
 
 def stack() -> str:
-    w, h = 1200, 150
-    top, wt = row(STACK_TOP, 64, 40, "r0", True)
-    bottom, wb = row(STACK_BOTTOM, 112, 26, "r1", False)
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-label="Tecnologias: {escape(', '.join(STACK_TOP + STACK_BOTTOM))}">
+    w, h = 1200, 200
+    top, wt = row(STACK_TOP, 62, 40, "r0", True)
+    mid, wm = row(STACK_MID, 108, 26, "r1", False)
+    bottom, wb = row(STACK_BOTTOM, 148, 26, "r2", False)
+    every = STACK_TOP + STACK_MID + STACK_BOTTOM
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-label="Tecnologias: {escape(', '.join(every))}">
 <style>
   text {{ font-family: {MONO}; font-weight: 700; }}
   .solid {{ fill: #fff; }}
   .hollow {{ fill: none; stroke: #fff; stroke-width: 1.4; }}
   .star {{ fill: {ACCENT}; }}
   .r1 .solid {{ fill: {ACCENT}; font-weight: 400; }}
-  .r1 .star {{ fill: #fff; }}
-  .r0 {{ animation: left 26s linear infinite; }}
-  .r1 {{ animation: right 22s linear infinite; }}
+  .r1 .star, .r2 .star {{ fill: #fff; }}
+  .r2 .solid {{ fill: #fff; font-weight: 400; }}
+  .r0 {{ animation: left 30s linear infinite; }}
+  .r1 {{ animation: right 26s linear infinite; }}
+  .r2 {{ animation: left2 28s linear infinite; }}
   @keyframes left {{ from {{ transform: translateX(0); }} to {{ transform: translateX(-{wt:.1f}px); }} }}
-  @keyframes right {{ from {{ transform: translateX(-{wb:.1f}px); }} to {{ transform: translateX(0); }} }}
+  @keyframes right {{ from {{ transform: translateX(-{wm:.1f}px); }} to {{ transform: translateX(0); }} }}
+  @keyframes left2 {{ from {{ transform: translateX(0); }} to {{ transform: translateX(-{wb:.1f}px); }} }}
 </style>
 <rect width="{w}" height="{h}" fill="{BG}"/>
-<g transform="rotate(-2 600 75)">
-  <rect x="-40" y="14" width="{w + 80}" height="122" fill="{PURPLE}"/>
+<g transform="rotate(-2 600 100)">
+  <rect x="-40" y="16" width="{w + 80}" height="168" fill="{PURPLE}"/>
   {top}
+  {mid}
   {bottom}
 </g>
 </svg>

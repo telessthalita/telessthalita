@@ -21,7 +21,7 @@ Hoje eu trabalho do front ao banco, com um pé bem firme em IA: chatbot, automa�
 - o meu [portfólio](https://telessthalita.com.br), que tem uma assistente chamada Friday. Passa lá e dá um oi pra ela
 
 <p align="center">
-  <img src="assets/stack.svg" alt="Tecnologias que eu uso: JavaScript, Python, React, Vue, Node.js, FastAPI, Supabase, Postgres, LLMs, Ollama, n8n, TypeScript, C#, SQL, APIs REST, automação e Git" width="100%">
+  <img src="assets/stack.svg" alt="Tecnologias que eu uso: JavaScript, TypeScript, Python, React, Next.js, Vue, Node.js, FastAPI, WordPress, Supabase, Postgres, MongoDB, MySQL, PHP, C#, .NET, Flask, Express, Hono, Tailwind, Docker, OpenAI, Gemini, Groq, Ollama, LLMs, n8n, Azure AI, Three.js, Selenium e GitHub Actions" width="100%">
 </p>
 
 ### Algumas coisas que eu fiz
