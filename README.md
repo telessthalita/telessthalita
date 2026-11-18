@@ -14,6 +14,18 @@ Hoje eu trabalho do front ao banco, com um pé bem firme em IA: chatbot, automa�
 
 > Problema sempre vai ter. O segredo é curtir o caminho de resolver.
 
+### Como eu trabalho
+
+IA é parceira de verdade no meu dia a dia, mas com método, senão vira bagunça rápido:
+
+- **Spec antes do código.** Antes de abrir o editor eu escrevo o que precisa acontecer, como vou saber que ficou pronto e o plano de implementação. A IA trabalha muito melhor com uma especificação clara, e eu também.
+- **IA do lado, eu no comando.** Uso IA pra acelerar a implementação, revisar código, caçar bug e escrever documentação. Quem decide e revisa sou eu.
+- **Contexto organizado.** Cada projeto tem as regras, as decisões de arquitetura e os combinados registrados num lugar que a IA lê antes de começar. É isso que faz ela acertar de primeira em vez de chutar.
+- **Agentes.** Tô explorando agentes que usam ferramentas, APIs e o próprio fluxo de desenvolvimento pra resolver tarefas inteiras.
+- **Código que outra pessoa entende.** Nome que explica, função pequena, responsabilidade separada e teste onde importa.
+- **API pensada primeiro.** Contrato claro, validação, autenticação e erro bem tratado antes de sair fazendo tela.
+- **Evoluir sem jogar fora.** Quando o sistema já existe, prefiro mudar aos poucos e com teste do que reescrever tudo do zero.
+
 ### No que eu tô mexendo agora
 
 - um app de finanças pra casal, pra dividir conta e planejar junto sem briga
@@ -23,6 +35,24 @@ Hoje eu trabalho do front ao banco, com um pé bem firme em IA: chatbot, automa�
 <p align="center">
   <img src="assets/stack.svg" alt="Tecnologias que eu uso: JavaScript, TypeScript, Python, React, Next.js, Vue, Node.js, FastAPI, WordPress, Supabase, Postgres, MongoDB, MySQL, PHP, C#, .NET, Flask, Express, Hono, Tailwind, Docker, OpenAI, Gemini, Groq, Ollama, LLMs, n8n, Azure AI, Three.js, Selenium e GitHub Actions" width="100%">
 </p>
+
+<details>
+<summary><b>Ver a stack completa</b></summary>
+<br>
+
+| Área | O que eu já usei |
+|---|---|
+| **Linguagens** | JavaScript, TypeScript, Python, PHP, C#, SQL, HTML e CSS |
+| **Front** | React, Next.js, Vue, Vite, Tailwind, shadcn/ui, GSAP, Framer Motion e Three.js |
+| **Back** | Node.js, Express, Hono, FastAPI, Flask e ASP.NET Core com Entity Framework |
+| **Bancos** | Postgres, Supabase, MongoDB, MySQL e SQL Server |
+| **IA** | OpenAI, Gemini, Groq, Ollama, Vercel AI SDK e Azure AI (Document Intelligence e Translator) |
+| **Automação** | n8n, Selenium e CLIs em Node |
+| **CMS** | WordPress, com plugin próprio ([Botão de Acessibilidade](https://github.com/telessthalita/botao-acessibilidade)) |
+| **Infra** | Docker, Render, Vercel, GitHub Actions e Azure Blob Storage |
+| **Testes** | Pytest, Vitest e Testing Library |
+
+</details>
 
 ### Algumas coisas que eu fiz
 
@@ -65,6 +95,8 @@ At 7 I asked for a computer as a present, one of those with a huge monitor, and 
 These days I work from front end to database, with one foot firmly in AI: chatbots, automation, models running locally. I like to prototype fast, put it in someone's hands and keep adjusting with what they tell me.
 
 > There will always be problems. The secret is enjoying the road to solving them.
+
+**How I work.** AI is a real partner in my day to day, but with method. I write the spec before the code: what needs to happen, how I'll know it's done and the implementation plan. I use AI to speed up implementation, code review, debugging and docs, while I make the calls and review everything. Each project keeps its rules and architecture decisions where the AI reads them first, so it gets things right instead of guessing. I'm exploring agents that use tools and APIs to handle whole tasks. And I care about code someone else can read, APIs designed first (clear contracts, validation, auth, proper errors) and evolving existing systems step by step instead of rewriting from scratch.
 
 Right now I'm building a money app for couples and studying AI engineering. Come say hi to Friday, my assistant, on [my portfolio](https://telessthalita.com.br).
 
