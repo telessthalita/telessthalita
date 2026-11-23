@@ -58,6 +58,7 @@ IA é parceira de verdade no meu dia a dia, mas com método, senão vira bagunç
 
 | Projeto | O que é |
 |---|---|
+| [**Edital na mão**](https://github.com/telessthalita/edital-na-mao) | Converse com o edital do concurso: RAG com busca híbrida e agente com tool calling, citando a página de cada resposta |
 | [**Meu portfólio**](https://telessthalita.com.br) | Roxo, cheio de animação e com a Friday respondendo sobre mim com IA |
 | [**Kleiton Moreira**](https://kleitonmoreira.com.br) | Site de um personal trainer, com painel pra ele mesmo editar o conteúdo |
 | [**Brisa da Barra**](https://tabacariabrisadabarra.com.br) | Catálogo de uma tabacaria com carrinho e pedido fechado no WhatsApp |
